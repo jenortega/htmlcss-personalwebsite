@@ -13,7 +13,7 @@
 The purpose of this project was to apply what I have learned about HTML and CSS. This project started off only with HTML, but with time, I applied styles with CSS. Moreover, this is my first project within the web development world. 
  
 ## Screenshots
-![my-cv screenshot](./css/images/my-CV screenshot.png)
+![my-cv screenshot](./images/my-CV screenshot.png)
  
 ## Technologies
 * HTML5
