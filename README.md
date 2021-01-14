@@ -3,7 +3,7 @@
  
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
+* [Screenshot](#screenshot)
 * [Technologies](#technologies)
 * [Status](#status)
 * [Inspiration](#inspiration)
@@ -12,7 +12,7 @@
 ## General info
 The purpose of this project was to apply what I have learned about HTML and CSS. This project started off only with HTML, but with time, I applied styles with CSS. Moreover, this is my first project within the web development world. 
  
-## Screenshots
+## Screenshot
 ![my-cv screenshot](./images/my-CV%20screenshot.png)
  
 ## Technologies
